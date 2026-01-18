@@ -1,8 +1,4 @@
 The river flowed gently.
  It reflected the moonlight.
  Nearby, an owl hooted.
-<<<<<<< HEAD
- The forest seemed whimsical.
-=======
- The forest seemed mystical.
->>>>>>> branch1
+ The forest seemed mystical and whimsical.
